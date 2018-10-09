@@ -1,0 +1,1 @@
+<footer class="footer text-center"> Copyright 2018 Technocrats. All Rights Reserved. </footer>
