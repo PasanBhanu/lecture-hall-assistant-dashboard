@@ -1,8 +1,10 @@
 <?php
-    $database_server = "localhost";
-    $database_name = "ele";
-    $database_username = "root";
-    $database_password = "";
+    $database_server = "YOUR_SERVER_URL";
+    $database_name = "DATABASE_NAME";
+    $database_username = "DATABASE_USERNAME";
+    $database_password = "DATABASE_PASSWORD";
+
+// Please check the root folder for the database
 
     function textencode($str){
 		$str = 	str_replace("'","",$str);
