@@ -21,7 +21,7 @@ This project is to overcome the common audio issues in lecture halls in developi
 
 1. [API](https://github.com/PasanBhanu/iot-api-lecture-hall-assistant)
 2. [Control Dashboard](https://github.com/PasanBhanu/lecture-hall-assistant-dashboard)
-3. [Arduino System](#)
+3. [NodeMCU Codes](#)
 
 ### Repository Introduction
 
