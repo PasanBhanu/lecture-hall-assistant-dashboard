@@ -1,4 +1,4 @@
-# Lecture Hall Assistant Dashboard
+# Lecture Hall Assistant - Control Dashboard
 
 ![alt text](https://www.yesist12.org/wp-content/uploads/2019/01/logo.jpg "IEEESS12 Logo")
 
