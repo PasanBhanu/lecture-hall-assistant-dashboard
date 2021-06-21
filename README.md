@@ -1,6 +1,6 @@
 # Lecture Hall Assistant - Control Dashboard
 
-![alt text](https://www.yesist12.org/wp-content/uploads/2019/01/logo.jpg "IEEESS12 Logo")
+![alt text](https://i.ibb.co/ZV05pqJ/IEEE-YESIST12-Logo-1024x307.png "IEEESS12 Logo")
 
 ## Introduction
 
